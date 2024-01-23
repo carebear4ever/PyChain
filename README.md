@@ -15,7 +15,7 @@ You’ll make the following updates to the provided Python file for this assignm
 4. Test the PyChain Ledger by Storing Records.
 
 ---
-#Explanation of the Steamlit application and screenshots 
+# Explanation of the Steamlit application and screenshots 
 First I entered the values for the sender, receiver, and amount. Then clicked the Add Block button several times to store several blocks in the ledger. Second I verified the block contents and hashes in the dropdown menu. Lastly I tested the blockchain validation process using the web interface the validity of the blockchain came out True.
 
 <img width="1307" alt="Screenshot 2024-01-22 at 6 20 50 PM" src="https://github.com/carebear4ever/PyChain/assets/141070883/cd78ec5d-0cd4-47d2-8607-db638064937a">
